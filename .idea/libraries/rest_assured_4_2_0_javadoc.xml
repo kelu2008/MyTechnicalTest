@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="rest-assured-4.2.0-javadoc">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/groovy-all-2.4.7.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files (1)/httpclient-4.5.6.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files (1)/httpcore-4.4.10.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/httpmime-4.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/commons-lang3-3.9/commons-lang3-3.9.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/commons-logging-1.2/commons-logging-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files (2)/jackson-databind-2.10.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files (2)/jackson-annotations-2.10.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files (2)/jackson-core-2.10.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/rest-assured-4.2.0-dist/docs/rest-assured-4.2.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/rest-assured-4.2.0-dist/docs/xml-path-4.2.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/rest-assured-4.2.0-dist/docs/json-path-4.2.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/rest-assured-4.2.0-dist/docs/rest-assured-common-4.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/rest-assured-4.2.0-dist/docs/rest-assured-4.2.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/rest-assured-4.2.0-dist/docs/xml-path-4.2.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/rest-assured-4.2.0-dist/docs/json-path-4.2.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/rest-assured-4.2.0-dist/docs/rest-assured-common-4.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
